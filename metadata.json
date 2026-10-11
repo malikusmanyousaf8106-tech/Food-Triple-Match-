@@ -1,0 +1,6 @@
+{
+  "name": "Food Triple Match",
+  "description": "A delightful 3D-style casual food triple-matching puzzle game with 100+ levels, power-ups, and combo animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
